@@ -1,1 +1,3 @@
-# numbershiftinggame
+
+# Name: Sliding Number Puzzle Game in C
+Description: This C program presents an engaging Sliding Number Puzzle game where players maneuver a 4x4 matrix to arrange numbers from 1 to 15, leaving one empty space. The objective is to achieve a winning configuration within a limited number of moves. Users employ arrow keys (Up, Down, Left, Right) to shift the empty space and adjacent numbers strategically. The game incorporates ANSI escape codes for colorful console output, enhancing the visual experience. Challenge yourself to solve the puzzle efficiently and enjoy the interactive gameplay. Note: Colorful output may vary based on terminal compatibility with ANSI escape sequences.
